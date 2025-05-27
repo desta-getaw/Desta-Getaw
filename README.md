@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 
--   💼 I am currently the Head of Information Technology at a Water Works Construction Corporation.
+-   💼 I am currently the Head of Information Technology at a Water Works Corporation.
 -  🌱 I have pursued a Bachelor's in Computer Science and Master's in Information Technology.
 - 🔭 I’m currently working for Water Works Corporation.
 - 🌱 I’m currently learning AI and Advanced Python & Django
